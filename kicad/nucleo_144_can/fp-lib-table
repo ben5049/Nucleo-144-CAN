@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nucleo_144_can")(type "KiCad")(uri "C:/Users/bens1/Documents/sync/projects/Nucleo-144-CAN/kicad/nucleo_144_can")(options "")(descr ""))
+)
